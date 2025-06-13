@@ -20,7 +20,7 @@ O vídeo a ser utilizado no projeto está disponível no seguinte link:
 ### Avaliação do Código (Total: 7 pontos)
 |   | Pontos |   Descrição                                                                         |
 |---|--------|------------------------------------------------------------------------------|
-| ❌ | 1 | Exibir o vídeo que foi carregado. |
+| ✅ | 1 | Exibir o vídeo que foi carregado. |
 | ❌ | 2 | Desenhar faixas na imagem para demonstrar a localização das vagas. |
 | ❌ | 3 | Exibir a contagem de vagas disponíveis. |
 | ❌ | 1 | Exibir a cor de cada veículo detectado. |
